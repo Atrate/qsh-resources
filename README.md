@@ -1,3 +1,3 @@
-# PowerPoint Viewer
+# qsh-resources
 
-Simple repo set up to have a semi-permanent place to download PowerPoint Viewer from
+This repo contains various resources needed for the correct operation of qsh's Software Installer module.
