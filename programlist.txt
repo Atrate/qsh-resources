@@ -4,8 +4,8 @@ C:\\Program Files\\Mozilla Firefox\\firefox.exe
 https://admdownload.adobe.com/bin/live/readerdc_en_a_install.exe
 readerdc_en_a_install.exe
 C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe
-https://download.documentfoundation.org/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0_Win_x64.msi
-LibreOffice_7.0.0_Win_x64.msi
+http://ftp.rz.tu-bs.de/pub/mirror/tdf/tdf-pub/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0.3_Win_x64.msi
+LibreOffice_7.0.0.3_Win_x64.msi
 TODO: ADD PATH
 https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe
 vlc-3.0.8-win64.exe
