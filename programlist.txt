@@ -3,7 +3,7 @@ C:\\Program Files\\Mozilla Firefox\\firefox.exe
 https://admdownload.adobe.com/bin/live/readerdc_en_a_install.exe
 C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe
 http://ftp.rz.tu-bs.de/pub/mirror/tdf/tdf-pub/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0.3_Win_x64.msi
-TODO: ADD PATH
+C:\\Program Files\\LibreOffice\\program\\soffice.exe
 https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe
 C:\\Program Files\\VideoLAN\\VLC\\vlc.exe
 https://gitlab.com/Atrate/qsh-resources/-/raw/master/PowerPointViewer.exe
