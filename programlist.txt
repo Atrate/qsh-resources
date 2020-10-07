@@ -8,4 +8,6 @@ https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe
 C:/Program Files/VideoLAN/VLC/vlc.exe
 https://gitlab.com/Atrate/qsh-resources/-/raw/master/PowerPointViewer.exe
 C:/Program Files (x86)/Microsoft Office/Office14/PPTVIEW.exe
+https://7-zip.org/a/7z1900-x64.exe
+C:/Program Files/7-Zip/7z.exe
 https://download.bleachbit.org/BleachBit-4.0.0-setup.exe
